@@ -185,13 +185,5 @@ The final dataset is **machine-learning ready**, and the analysis suggests that 
 
 ---
 
-## 11. Next Steps
-
-* Train classification models to predict `Market_Phase`.
-* Evaluate feature importance.
-* Perform time-aware modeling.
-* Extend analysis to causal inference methods.
-
----
 
 **End of Report**
